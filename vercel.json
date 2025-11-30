@@ -8,8 +8,8 @@
     { "src": "/Kalopass", "dest": "/Kalopass.js" },
     { "src": "/Sabir", "dest": "/Sabir.js" },
     { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
-    { "src": "/sana", "dest": "/sana.js" },
-    { "src": "/sanapass", "dest": "/sanapass.js" },
+    { "src": "/ahtsham", "dest": "/ahtsham.js" },
+    { "src": "/ahtshampass", "dest": "/ahtshampass.js" },
     { "src": "/zubair", "dest": "/zubair.js" },
     { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
