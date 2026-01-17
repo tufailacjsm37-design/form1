@@ -5,8 +5,8 @@
   ],
   "routes": [
     { "src": "/jhangir", "dest": "/jhangir.js" },
-    { "src": "/Hasanlagarihala", "dest": "/Hasanlagarihala.js" },
-    { "src": "/Waris", "dest": "/Waris.js" },
+    { "src": "/aftab", "dest": "/aftab.js" },
+    { "src": "/abbas", "dest": "/abbas.js" },
     { "src": "/qaisar", "dest": "/qaisar.js" },
     { "src": "/Hamid", "dest": "/Hamid.js" },
     { "src": "/Rafique", "dest": "/Rafique.js" },
