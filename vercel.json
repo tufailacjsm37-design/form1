@@ -6,7 +6,7 @@
   "routes": [
     { "src": "/ahtsham1", "dest": "/ahtsham1.js" },
     { "src": "/ahtsham2", "dest": "/ahtsham2.js" },
-    { "src": "/Rahal", "dest": "/Rahal.js" },
+    { "src": "/tufaill", "dest": "/tufaill.js" },
     { "src": "/Dilbar", "dest": "/Dilbar.js" },
     { "src": "/tufail", "dest": "/tufail.js" },
     { "src": "/Rafique", "dest": "/Rafique.js" },
