@@ -11,6 +11,6 @@
     { "src": "/waqar", "dest": "/waqar.js" },
     { "src": "/GF", "dest": "/GF.js" },
     { "src": "/nanu", "dest": "/nanu.js" },
-    { "src": "/faisal", "dest": "/faisal.js" }
+    { "src": "/TL", "dest": "/TL.js" }
   ]
 }
